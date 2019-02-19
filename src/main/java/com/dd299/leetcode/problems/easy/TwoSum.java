@@ -35,10 +35,7 @@ public class TwoSum {
                 }
             }
         }
-
-
         return sums;
-
 
     }
 
